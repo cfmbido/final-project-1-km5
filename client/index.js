@@ -1,2 +1,3 @@
 console.log("Hello World");
-console.log("Ini update dari John Doe");
+console.log("Edited by Harfa");
+console.log("New Feature from Harfa");
